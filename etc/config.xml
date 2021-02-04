@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <high_value_order>
+            <general>
+                <enable>0</enable>
+                <message_template>high_value_order_general_message_template</message_template>
+            </general>
+        </high_value_order>
+    </default>
+</config>

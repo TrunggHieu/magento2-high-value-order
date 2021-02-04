@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Hamsa_HighValueOrder::general" title="High Value Order" module="Hamsa_HighValueOrder" sortOrder="51" resource="Hamsa_HighValueOrder::general"/>
+        <add id="Hamsa_HighValueOrder::general_configuration" title="Configuration" module="Hamsa_HighValueOrder" sortOrder="99" parent="Hamsa_HighValueOrder::general" action="adminhtml/system_config/edit/section/high_value_order" resource="Hamsa_HighValueOrder::general_configuration"/>
+    </menu>
+</config>

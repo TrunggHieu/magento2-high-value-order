@@ -1,0 +1,8 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Email:etc/email_templates.xsd">
+    <template id="high_value_order_general_message_template"
+              label="High Value Order"
+              file="high_value_order_message_template.html"
+              type="text"
+              module="Hamsa_HighValueOrder" area="frontend"
+    />
+</config>

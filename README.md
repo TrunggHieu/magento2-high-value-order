@@ -1,0 +1,1 @@
+- To install this module clone repo to below folder app/code/Hamsa/HighValueOrder
